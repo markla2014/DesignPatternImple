@@ -2,3 +2,5 @@
 信息: Package starting up at Mon Jan 25 21:45:53 CST 2016
 一月 25, 2016 9:45:55 下午 com.genuitec.pulse.client.deliverypackage.runtime.UpdatesService checkForWorkspaceUpdates
 信息: Latest version of package has already been enabled in the workspace; check finished in 9ms
+一月 25, 2016 10:53:46 下午 com.genuitec.pulse.client.deliverypackage.runtime.UpdatesService canHaveP2Changes
+信息: Detected additional root IUs indicating additional software has been added by end-user: org.springframework.ide.eclipse.maven.feature.feature.group 3.7.2.201511260958-RELEASE
